@@ -1,5 +1,3 @@
-# Felipe Tavares
-
 Enterprise architecture, platforms and AI. 18 years building the digital backbone of global
 enterprises: ERP landscapes, data platforms, platform engineering, hybrid cloud.
 
